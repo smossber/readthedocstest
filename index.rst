@@ -1,1 +1,3 @@
-# required by readthe docs
+mkdocs:
+  configuration: mkdocs.yml
+  fail_on_warning: false
